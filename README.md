@@ -8,9 +8,9 @@ The game is follows by OOP standarts. Game included also invetory system. Main i
 ### images:
 
 ![NazevHry](https://user-images.githubusercontent.com/42646031/180016933-51a7e7f9-61dd-4e03-8c08-2fc317b70d8d.png)
--------------------------------------------------------------------------------------------------------------------------------
-![ZacatekHry](https://user-images.githubusercontent.com/42646031/151656330-2aca4947-a9e9-43e9-95d5-5884b34ec391.png)
 
-![PrvniKonecHry](https://user-images.githubusercontent.com/42646031/151656333-dc5206af-9172-4c0e-aa48-422889656f8e.png)
+![ZacatekHry](https://user-images.githubusercontent.com/42646031/182035855-9e91e206-092f-41a5-85c9-ab75d69c7323.png)
 
-![DruhyKonecHry](https://user-images.githubusercontent.com/42646031/151656334-ad92121a-8d61-4e77-981d-90bb8fd55497.png)
+![PrvniKonec](https://user-images.githubusercontent.com/42646031/182035858-aa3ea922-6b42-4dee-b61f-514e2447ac5a.png)
+
+![DruhyKonec](https://user-images.githubusercontent.com/42646031/182035860-2b774eaf-f181-4753-a04b-7529190c407f.png)
