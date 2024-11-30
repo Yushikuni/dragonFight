@@ -14,3 +14,6 @@ The game is follows by OOP standarts. Game included also invetory system. Main i
 ![PrvniKonec](https://user-images.githubusercontent.com/42646031/182035858-aa3ea922-6b42-4dee-b61f-514e2447ac5a.png)
 
 ![DruhyKonec](https://user-images.githubusercontent.com/42646031/182035860-2b774eaf-f181-4753-a04b-7529190c407f.png)
+
+
+czech version: https://github.com/Yushikuni/BitkaProtiDrakovi
